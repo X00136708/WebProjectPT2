@@ -1,0 +1,24 @@
+ZEIT
+
+ZEIT Hyperlink: https://lab5-ogzzfdktdo.now.sh/
+
+Steps Taken:
+1: Visited the link given to get NOW working, I downloaded NOW desktop (58mb).
+2: Signed in with github and my NOW Account. 
+3: I uploaded the project into NOW Desktop.
+4: It ran automatically, but can be run at any time using the URL above.
+
+
+HEROKU
+
+HEROKU Hyperlink: https://x00136708app1.herokuapp.com/
+
+Steps Taken:
+1: Followed the link given and made an account.
+2: Added the code to the files as suggested
+3: Uploaded the files to github
+4: Went to Dashboard and deployed as suggested.
+
+References: 
+Zeit - No help was needed.
+Heroku - No help needed.
